@@ -2,7 +2,7 @@
 
 **Full-Funnel Growth Leader · AI Agent Builder · Product Engineer**
 
-Growth Pod Lead at Weee!, managing $648K+/month in ad spend, a 15-person cross-functional team, and 39+ simultaneous projects. I operate at the intersection of performance marketing, product experimentation, and AI automation. I also ship side projects because I can't stop building.
+Growth Pod Lead at Weee!, managing $648K+/month in ad spend, a 15-person cross-functional team and operating at the intersection of performance marketing, product experimentation, and AI automation. I also ship side projects because I can't stop building.
 
 [lucasbfranco.com](https://lucasbfranco.com) · [LinkedIn](https://www.linkedin.com/in/lucas-buccianti-franco/) · [@Lucasbfranco](https://x.com/Lucasbfranco)
 
