@@ -2,7 +2,8 @@
 
 **Full-Funnel Growth Leader · AI Agent Builder · Product Engineer**
 
-Growth Pod Lead at Weee!, managing $648K+/month in ad spend, a 15-person cross-functional team and operating at the intersection of performance marketing, product experimentation, and AI automation. I also ship side projects because I can't stop building.
+Growth leader with 9+ years of experience spanning consumer (B2C) lifecycle marketing, experimentation, and retention at scale. Built a complete email, push, in-app, and live notification stack from scratch using Klaviyo and custom solutions, serving 12+ audience segments in 7+ languages with personalized, multi-channel journeys. Shipped 20+ stat sig A/B experiments across the full funnel, from onboarding, activation, engagement, retention and monetization. Built AI-powered workflows for campaign analysis and personalization at scale. Leads a ~15-person cross-functional team across engineering, design, data, and marketing.
+
 
 [lucasbfranco.com](https://lucasbfranco.com) · [LinkedIn](https://www.linkedin.com/in/lucas-buccianti-franco/) · [@Lucasbfranco](https://x.com/Lucasbfranco)
 
@@ -13,7 +14,7 @@ Growth Pod Lead at Weee!, managing $648K+/month in ad spend, a 15-person cross-f
 - **Full-Funnel Growth** → Paid acquisition, lifecycle/CRM, SEO, conversion optimization, and monetization — all at once
 - **Experimentation** → 20+ statistically significant experiments shipped across homepage, checkout, onboarding, and retention
 - **AI Agents** → Built autonomous campaign management agents using MCP servers with safety guardrails across 169 campaigns
-- **Ads Platform Engineering** → Designed and launched a self-serve marketplace ads platform from scratch with CPC bid automation
+- **Ads Platform Engineering** → Designed and launched a self-serve marketplace ads platform from scratch
 
 ---
 
@@ -21,14 +22,13 @@ Growth Pod Lead at Weee!, managing $648K+/month in ad spend, a 15-person cross-f
 
 **Growth Pod Lead @ [Weee!](https://www.sayweee.com)** — largest online Asian & Hispanic grocery in the U.S.:
 
-- Owned **$648K+/month** in ad spend across Google Search, Shopping, YouTube, PMAX, and Meta
-- Shipped **20+ stat-sig experiments** across the full funnel — from homepage to post-checkout upsell
-- Scaled SEO from **31K → 1.3M+ dynamic pages**, driving +93% CTR and +77% organic growth (~$31K/month in equivalent paid savings)
-- Launched self-serve vendor ads platform: **$1,600/day in ad revenue at 33.5x ROAS** across 20+ ad slot types
-- Push notification launch via Klaviyo: **$260K in bookings in 45 days**
+- Managed $648K+/month in paid acquisition across Google Ads (Search, Shopping, YouTube, PMAX) and Meta, driving top-of-funnel growth for user acquisition across mobile and web.
+- Helped scale pSEO to 1.3M+ pages with dynamic page generation using AI. Achieved +93% CTR improvement, +77% organic growth, and +20% signup rate increase on SEO landing pages.
+- Launched self-serve ads platform at Weee!: **Reached $2M ARR** across 20+ ad slot types
+- Designed and launched end-to-end lifecycle journeys across email, push, in-app, and live notifications: welcome series, abandoned cart, RFM-based re-engagement, coupon expiration reminders, back-in-stock alerts, rewards automation, buy-again emails, and add-to-order flows. All personalized across 12+ audience segments in 7+ languages.
 - Built **MasGusto** (Hispanic grocery) paid acquisition from **$0 → $283K/month** across 5 Latino communities
-- 30-day attribution audit uncovered **$21.5K+/month in immediate savings**
 - Built **META PILOT, Google PILOT, Klaviyo PILOT** — 3 AI agents using MCP servers that autonomously manage campaigns and automate daily reporting
+- Built social media marketing tools for automated posting for 8 company profiles in 3 platforms, for Asian and Latino ethnicities.
 
 ---
 
